@@ -101,32 +101,36 @@ export default function Home() {
           <nav className="hidden md:flex gap-6">
             <a
               href="#about"
-              className="text-gray-600 hover:text-yellow-500 transition-colors"
+              className="text-gray-600 hover:text-yellow-500 transition-colors scroll-smooth"
             >
               Sobre mí
             </a>
             <a
               href="#projects"
-              className="text-gray-600 hover:text-yellow-500 transition-colors"
+              className="text-gray-600 hover:text-yellow-500 transition-colors scroll-smooth"
             >
               Proyectos
             </a>
             <a
               href="#skills"
-              className="text-gray-600 hover:text-yellow-500 transition-colors"
+              className="text-gray-600 hover:text-yellow-500 transition-colors scroll-smooth"
             >
               Habilidades
             </a>
             <a
               href="#contact"
-              className="text-gray-600 hover:text-yellow-500 transition-colors"
+              className="text-gray-600 hover:text-yellow-500 transition-colors scroll-smooth"
             >
               Contacto
             </a>
           </nav>
-          <button className="border border-yellow-500 text-yellow-500 hover:bg-yellow-50 px-4 py-2 rounded-md transition-colors">
+          <a
+            href="/CV_Lizbeth_Guadalupe_Hernandez_RebolledoEspanol.pdf"
+            download
+            className="border border-yellow-500 text-yellow-500 hover:bg-yellow-50 px-4 py-2 rounded-md transition-colors"
+          >
             Descargar CV
-          </button>
+          </a>
         </div>
       </header>
 
