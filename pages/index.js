@@ -125,7 +125,7 @@ export default function Home() {
             </a>
           </nav>
           <a
-            href="/CV_Lizbeth_Guadalupe_Hernandez_Rebolledo.pdf"
+            href="/CV_Lizbeth.pdf"
             download
             className="border border-yellow-500 text-yellow-500 hover:bg-yellow-50 px-4 py-2 rounded-md transition-colors"
           >
