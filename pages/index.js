@@ -125,7 +125,7 @@ export default function Home() {
             </a>
           </nav>
           <a
-            href="/CV_Lizbeth_Guadalupe_Hernandez_RebolledoEspanol.pdf"
+            href="/CV_Lizbeth_Guadalupe_Hernandez_Rebolledo.pdf"
             download
             className="border border-yellow-500 text-yellow-500 hover:bg-yellow-50 px-4 py-2 rounded-md transition-colors"
           >
@@ -143,7 +143,7 @@ export default function Home() {
             </h1>
             <p className="text-xl text-gray-600 max-w-md">
               Desarrolladora web especializado en crear experiencias digitales
-              elegantes y funcionales, Experta en Backend.
+              elegantes y funcionales, Experta en Backend y componentes electronicos.
             </p>
             <div className="flex gap-4">
               <button className="bg-yellow-500 hover:bg-yellow-600 text-white px-4 py-2 rounded-md flex items-center transition-colors">
@@ -205,8 +205,8 @@ export default function Home() {
                 <p className="text-gray-600 mb-4">
                   Mi enfoque combina creatividad y precisión técnica para
                   entregar proyectos que no solo se ven bien, sino que también
-                  funcionan perfectamente. Siempre estoy aprendiendo nuevas
-                  tecnologías y mejorando mis habilidades.
+                  funcionan perfectamente. Tanto en desarrollo como en componentes electronicos como arduino y ESP32, Siempre estoy aprendiendo nuevas
+                  tecnologías y mejorando mis habilidades. 
                 </p>
                 <div className="mt-6">
                   <button className="bg-yellow-500 hover:bg-yellow-600 text-white w-40 h-16 rounded-xl">
@@ -220,7 +220,7 @@ export default function Home() {
                     Educación
                   </h3>
                   <p className="text-gray-600">
-                    Estudiante reconocida de 7to semestre en el Tecnologico II
+                    Estudiante reconocida de 8to semestre en el Tecnologico II
                   </p>
                 </div>
                 <div className="bg-white p-6 rounded-lg shadow-sm border border-yellow-100 transform transition-transform duration-300 hover:scale-105">
